@@ -297,3 +297,4 @@ Ensure that before committing you:
 1. Run `npm run build` (TypeScript build).
 2. Run `npm test` (Vitest suite).
 3. Optionally run `npm run lint` and Prettier to keep code style consistent.
+
